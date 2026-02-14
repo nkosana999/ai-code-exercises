@@ -4,3 +4,19 @@ Initial undersating
 - It is devided into multiple files of classes that acts as tools.
 - It appears to use Enum which is new to me and it also uses uuid and datetime module 
 - The main components are  cli.py which I think runs the program and models.py which is acts as foundation structure to every file.
+
+
+Updated undersating
+
+- It is indeed a task management program. 
+- It is built using only python standard libraries
+
+- Main files - cli.py (This is the main file for running the entire program form the terminal)
+             - model.py (creating unique events objects)
+             - storage.py (ensure storing of events on the hard drive so they are not lost when you close the terminal.)                        
+
+- You run it through command line arguments
+ 
+- functiionality - Create and save events 
+                 - List existing events
+                 - Update existing events
