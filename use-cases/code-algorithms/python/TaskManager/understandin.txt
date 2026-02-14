@@ -1,0 +1,6 @@
+Initial undersating
+
+- This is a task manangement program,
+- It is devided into multiple files of classes that acts as tools.
+- It appears to use Enum which is new to me and it also uses uuid and datetime module 
+- The main components are  cli.py which I think runs the program and models.py which is acts as foundation structure to every file.
